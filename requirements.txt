@@ -1,0 +1,12 @@
+
+jinja2>=2.10
+chatterbot==1.0.0
+chatterbot_corpus==1.2.0
+werkzeug>=0.14.1
+flask>=0.12.2
+numpy>=1.14.0
+nltk==3.5
+pytz==2020.1
+scipy>=1.0.0
+passlib==1.7.1
+gunicorn==20.0.4
